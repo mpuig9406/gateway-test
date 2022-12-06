@@ -14,6 +14,12 @@ Unit tests with mocha on NodeJs -- Exec in the main directory (  npx mocha test/
 DB: memory
 
 ####################################
+######## Install Project ##########
+In the main directory
+Exec: npm install 
+In the frontend directory 
+Exec: npm install 
+
 ######## Init the server and client ########
 In the main directory
 Exec: node index.js 
