@@ -1,0 +1,21 @@
+#####################################
+
+Programming language: JavaScript
+Server: NodeJs and Express
+Client: ReactJs
+
+#####################################
+
+---------skills----------
+Error handling with boom
+Data validation with joi
+Data generator with faker
+Unit tests with mocha on NodeJs -- Exec in the main directory (  npx mocha test/BasicTest.js  )
+DB: memory
+
+####################################
+######## Init the server and client ########
+In the main directory
+Exec: node index.js 
+In the frontend directory 
+Exec: npm start
